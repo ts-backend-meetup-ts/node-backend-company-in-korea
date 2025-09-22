@@ -6,15 +6,15 @@
 
 ## 목록
 
-| 회사명 | 사용 부서 | 관련 링크 |
+| 회사명 | 사용 부서 | 주요 기술 스택 |
 |:------:|:-----------:|:---------:|
-| (주)뤼튼테크놀로지스 | 모든 백엔드 직군 | [채용 공고](https://wrtn.career.greetinghr.com/en/o/119686) |
-| 토스 | | [채용 공고](https://toss.im/career/job-detail?job_id=4071137003) |
-| 당근 | 부동산, 중고차, 알바 | |
-| 크레버스 | | [채용 공고](https://www.jobkorea.co.kr/Recruit/GI_Read/46478249) |
-| 문토 | | [채용 공고](https://people.munto.kr/nodejs-developer) |
-| 아임웹 | | [채용 공고](https://recruit.imweb.me) |
-| 모니모니 | | [채용 공고](https://www.monymony.co/23f84624-3f8c-8068-8c78-f19cee276576) |
+| [(주)뤼튼테크놀로지스](https://wrtn.career.greetinghr.com/en/o/119686) | 모든 백엔드 직군 | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo&theme=light) |
+| [토스](https://toss.im/career/job-detail?job_id=4071137003) | | ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light) |
+| [당근]() | 부동산, 중고차, 알바 | ![tech](https://skillicons.dev/icons?i=ts,nodejs,express&theme=light) |
+| [크레버스](https://www.jobkorea.co.kr/Recruit/GI_Read/46478249) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) |
+| [문토](https://people.munto.kr/nodejs-developer) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma&theme=light) |
+| [아임웹](https://recruit.imweb.me) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light) |
+| [모니모니](https://www.monymony.co/23f84624-3f8c-8068-8c78-f19cee276576) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,graphql&theme=light) |
 
 ### 기타 복지
 
