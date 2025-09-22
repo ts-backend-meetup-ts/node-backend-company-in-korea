@@ -14,7 +14,7 @@
 | 크레버스 | | [채용 공고](https://www.jobkorea.co.kr/Recruit/GI_Read/46478249) |
 | 문토 | | [채용 공고](https://people.munto.kr/nodejs-developer) |
 | 아임웹 | | [채용 공고](https://recruit.imweb.me) |
-| 썸원 | | [채용 공고](https://www.monymony.co/23f84624-3f8c-8068-8c78-f19cee276576) |
+| 모니모니 | | [채용 공고](https://www.monymony.co/23f84624-3f8c-8068-8c78-f19cee276576) |
 
 ### 기타 복지
 
