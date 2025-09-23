@@ -23,3 +23,4 @@
 |                                 [토스](https://toss.im/career/jobs)                                 |                                                |           ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)            |                                             |
 |                 [협업툴 플로우](https://flow.team/kr/recruit?detail=web-developer)                  |        웹 / 엔터프라이즈 / AI 개발 직군        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,nest&theme=light)      | 8 ~ 10 자율출근 |
 |                 [퍼슬리](https://slashpage.com/persly)                  |       BE, AI        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,supabase,prisma&theme=light)      | 자율 출퇴근, 무제한 AI 툴 지급 |
+| [아하](https://www.wanted.co.kr/wd/263476) | BE | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) | |
