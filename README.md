@@ -24,3 +24,4 @@
 |                 [협업툴 플로우](https://flow.team/kr/recruit?detail=web-developer)                  |        웹 / 엔터프라이즈 / AI 개발 직군        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,nest&theme=light)      | 8 ~ 10 자율출근 |
 |                 [퍼슬리](https://slashpage.com/persly)                  |       BE, AI        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,supabase,prisma&theme=light)      | 자율 출퇴근, 무제한 AI 툴 지급 |
 | [아하](https://www.wanted.co.kr/wd/263476) | BE | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) | |
+| [한화비전](https://hanwhavision.ninehire.site/job_posting) | FE, BE(과제 별 상이) | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,mongo&theme=light) | 코어 타임 없는 2주 단위 자율 출퇴근, AI 툴 지급, 온라인 강의 지원, 출산 지원금(1000만원), 학자금 지원 등 |
