@@ -25,3 +25,4 @@
 |                 [퍼슬리](https://slashpage.com/persly)                  |       BE, AI        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,supabase,prisma&theme=light)      | 자율 출퇴근, 무제한 AI 툴 지급 |
 | [아하](https://www.wanted.co.kr/wd/263476) | BE | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) | |
 | [뮤팟](https://www.mewpot.com) | FE, BE | ![tech](https://skillicons.dev/icons?i=ts,nextjs,ruby,rails) | |
+|                  [Buzz&Beyond(버즈앤비)](https://www.bzznbyd.com/)<br/>[vling](https://vling.net)                  |   개발 전직군 (DevOps, DataLab, CoreTech_서비스개발)  |        ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,graphql,mongo&theme=light)        | 주 2회 재택, 8-11 유연근무, 교육비 연 200만원, 대학연계 인턴 적극 환영 등 공고 참고                                  |
