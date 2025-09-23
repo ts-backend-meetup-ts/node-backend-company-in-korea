@@ -16,3 +16,4 @@
 |    [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178)     |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light)     |                |
 |                   [토스](https://toss.im/career/jobs)                    |                      |        ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)        |                |
 |                 [놀유니버스](https://nol-universe.com/)                  |        fe api        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      |                |
+| [시나몬]([https://nol-universe.com/](https://cinamoncareers.ninehire.site/)) | BE, FE | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo,nextjs&theme=light) | 유연근무제, 주2일 재택, 식대 2만원 |
