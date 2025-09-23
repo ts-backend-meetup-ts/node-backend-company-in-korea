@@ -15,4 +15,4 @@
 |                    [아임웹](https://recruit.imweb.me)                    |                      |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      |                |
 |    [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178)     |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light)     |                |
 |                   [토스](https://toss.im/career/jobs)                    |                      |        ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)        |                |
-|                 [놀유니버스](https://nol-universe.com/)                  |        fe api        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      |                |
+|                 [놀유니버스](https://nol-universe.com/)                  |        fe api        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      | 주 1회 재택, 식대 법인카드, 8-10시 유연근무 |
