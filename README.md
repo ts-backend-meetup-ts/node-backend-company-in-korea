@@ -13,6 +13,6 @@
 | [모니모니](https://www.monymony.co/d88775ef-388d-417c-9cd4-3510bd2e8133) |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,graphql&theme=light)    |                |
 |             [문토](https://people.munto.kr/nodejs-developer)             |                      | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma&theme=light) |                |
 |                    [아임웹](https://recruit.imweb.me)                    |                      |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      |                |
-|[크리에이트립](https://creatrip.career.greetinghr.com/ko/home#f091e1dc-28de-4dd3-8a2f-0c2ef9d6ffe2)||![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,mongo&theme=light)||
+|[크리에이트립](https://creatrip.career.greetinghr.com/ko/home#f091e1dc-28de-4dd3-8a2f-0c2ef9d6ffe2)||![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,mongo&theme=light)|6-12시 자율출근, 주 3일 재택|
 |    [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178)     |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light)     |                |
 |                   [토스](https://toss.im/career/jobs)                    |                      |        ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)        |                |
