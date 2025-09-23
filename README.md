@@ -12,7 +12,7 @@
 |     [뤼튼테크놀로지스](https://wrtn.career.greetinghr.com/en/career)     |   모든 백엔드 직군   | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo&theme=light) | 1-5시 코어타임 |
 | [모니모니](https://www.monymony.co/d88775ef-388d-417c-9cd4-3510bd2e8133) |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,graphql&theme=light)    |                |
 |             [문토](https://people.munto.kr/nodejs-developer)             |                      | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma&theme=light) |                |
-|            [시나몬](https://cinamoncareers.ninehire.site/)               | BE, FE | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo,nextjs&theme=light) | 유연근무제, 주2일 재택, 식대 2만원 |
+|            [시나몬](https://cinamoncareers.ninehire.site/)               | BE, FE | ![tech](https://skillicons.dev/icons?i=ts,nestjs,mongo,nextjs&theme=light) | 유연근무제, 주2일 재택, 식대 2만원 |
 |                    [아임웹](https://recruit.imweb.me)                    |                      |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)      |                |
 |    [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178)     |                      |    ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light)     |                |
 |                   [토스](https://toss.im/career/jobs)                    |                      |        ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)        |                |
