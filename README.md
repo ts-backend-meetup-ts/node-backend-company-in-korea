@@ -8,10 +8,10 @@
 
 | 회사명 | 사용 부서 | 주요 기술 스택 |
 |:------:|:-----------:|:---------:|
-| [(주)뤼튼테크놀로지스](https://wrtn.career.greetinghr.com/en/career) | 모든 백엔드 직군 | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo&theme=light) |
-| [토스](https://toss.im/career/jobs) | | ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light) |
 | [당근](https://about.daangn.com/jobs/) | 부동산, 중고차, 알바 | ![tech](https://skillicons.dev/icons?i=ts,nodejs,express&theme=light) |
-| [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) |
+| [뤼튼테크놀로지스](https://wrtn.career.greetinghr.com/en/career) | 모든 백엔드 직군 | ![tech](https://skillicons.dev/icons?i=ts,express,nestjs,mongo&theme=light) |
+| [모니모니](https://www.monymony.co/d88775ef-388d-417c-9cd4-3510bd2e8133) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,graphql&theme=light) |
 | [문토](https://people.munto.kr/nodejs-developer) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma&theme=light) |
 | [아임웹](https://recruit.imweb.me) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light) |
-| [모니모니](https://www.monymony.co/d88775ef-388d-417c-9cd4-3510bd2e8133) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,graphql&theme=light) |
+| [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178) | |![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light) |
+| [토스](https://toss.im/career/jobs) | | ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light) |
