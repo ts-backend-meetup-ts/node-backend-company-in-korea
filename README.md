@@ -6,6 +6,7 @@
 
 ## 목록
 
+
 |                                               회사명                                                |                   사용 부서                    |                                   주요 기술 스택                                   |                 복지 & 문화                 |
 | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------: |
 |                               [놀유니버스](https://nol-universe.com/)                               |                     fe api                     |         ![tech](https://skillicons.dev/icons?i=ts,nodejs,nest&theme=light)         | 주 1회 재택, 식대 법인카드, 8-10시 유연근무 |
@@ -19,3 +20,4 @@
 | [크리에이트립](https://creatrip.career.greetinghr.com/ko/home#f091e1dc-28de-4dd3-8a2f-0c2ef9d6ffe2) |                                                | ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,mongo&theme=light) |        6-12시 자율출근, 주 3일 재택         |
 |                  [크레버스](https://www.jobkorea.co.kr/Recruit/Co_Read/C/38612178)                  |                                                |        ![tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs&theme=light)        |                                             |
 |                                 [토스](https://toss.im/career/jobs)                                 |                                                |           ![tech](https://skillicons.dev/icons?i=ts,nodejs&theme=light)            |                                             |
+|                 [협업툴 플로우](https://flow.team/kr/recruit?detail=web-developer)                  |        웹 / 엔터프라이즈 / AI 개발 직군        |     ![tech](https://skillicons.dev/icons?i=ts,nodejs,express,nest&theme=light)      | 8 ~ 10 자율출근 |
